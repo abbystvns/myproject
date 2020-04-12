@@ -11,3 +11,5 @@ editor_options:
 Welcome to my research website. So fun!
 
 Click on this [link](first-analysis.html) to see my results.
+
+Click on this [link](pandemic3.html) to see a notebook.
