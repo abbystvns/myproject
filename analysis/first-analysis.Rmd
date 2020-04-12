@@ -1,0 +1,16 @@
+---
+title: "first-analysis"
+author: "Abby Stevens"
+date: "2020-04-12"
+output: workflowr::wflow_html
+editor_options:
+  chunk_output_type: console
+---
+
+## Introduction
+
+```{r}
+a = c(1,2,3,4)
+plot(a)
+```
+
